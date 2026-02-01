@@ -59,11 +59,16 @@ const messages = [
     "Komolyan nem?",
     "Gondold meg 1x at",
     "Gondold meg 2x at!",
-    "Ha nemet mondasz akkor hazudsz..",
-    "Ne hazudj...",
-    "Nekem hazudhasz de magadnak nem💔...",
-    "Oke, rendben nem kerdezem meg tobbet...",
-    "Mondj igent! ❤️"
+    "ha nem-re böksz akkor nem szeretsz..",
+    "js say that u hate me and want me to die already...",
+    "oh so you really hate me💔...",
+    "okay, i won't be mad if u don't love me.",
+    "i lied! ❤️",
+    "pls love me and say yes",
+    "i told my friends that we are going to spend together valentines",
+    "JS SAY YES IS NOT THAT HARD",
+    "please say yesss🙏🙏🙏",
+    "megcsinalok barmit"
 ];
 
 let messageIndex = 0;
